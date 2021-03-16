@@ -9,6 +9,8 @@
 ![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=Webpack)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
+![SASS](https://img.shields.io/badge/-SASS-090909?style=for-the-badge&logo=sass)
+![SCSS](https://img.shields.io/badge/-SCSS-090909?style=for-the-badge&logo=scss)
 
 ### 📧 Почта: *qtrixnet@yandex.ru*
-### 📧 Telegram, Instagram: *@cyril_sv*
+### 🌐 Telegram, Instagram: *@cyril_sv*
