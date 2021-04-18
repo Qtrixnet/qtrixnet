@@ -18,4 +18,4 @@
 ![SASS](https://img.shields.io/badge/-SASS-0d1117?style=for-the-badge&logo=sass)
 
 ### 📧 Почта: *qtrixnet@yandex.ru*
-### 🌐 Telegram, Instagram: *@cyril_sv*
+### 🌐 Telegram: *@cyril_sv*
