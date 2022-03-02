@@ -17,6 +17,8 @@
 ![CSS](https://img.shields.io/badge/-CSS-0d1117?style=for-the-badge&logo=css3)
 ![SASS](https://img.shields.io/badge/-SASS-0d1117?style=for-the-badge&logo=sass)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=qtrixnet)](https://git.io/streak-stats)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=qtrixnet)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 📧 Почта: qtrixnet@yandex.ru
