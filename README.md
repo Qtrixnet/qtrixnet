@@ -19,9 +19,11 @@
 
 [![codewars](https://www.codewars.com/users/Qtrixnet/badges/micro)](https://www.codewars.com/users/Qtrixnet)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=qtrixnet&theme=react&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qtrixnet&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="http://github-readme-streak-stats.herokuapp.com?user=qtrixnet&theme=react&hide_border=true&date_format=j%2Fn%5B%2FY%5D"/>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=qtrixnet&theme=react&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qtrixnet&&hide_border=trueshow_icons=true&theme=react) 
 
