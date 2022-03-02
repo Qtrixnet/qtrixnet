@@ -5,7 +5,7 @@
 + 🧼 Стараюсь писать чистый код
 + 🚀 Осваиваю новые технологии
 + ⏱ Учусь анализировать сложность алгоритмов / улучшать производительность
-+ 
+
 ### Используемые языки и технологии: 
 ![Javascript](https://img.shields.io/badge/-Javascript-0d1117?style=for-the-badge&logo=Javascript)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-0d1117?style=for-the-badge&logo=React)
@@ -16,6 +16,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-0d1117?style=for-the-badge&logo=css3)
 ![SASS](https://img.shields.io/badge/-SASS-0d1117?style=for-the-badge&logo=sass)
 
+### Codewars:
 [![codewars](https://www.codewars.com/users/Qtrixnet/badges/large)](https://www.codewars.com/users/Qtrixnet)
 
 <div align="center">
