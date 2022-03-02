@@ -17,13 +17,15 @@
 ![CSS](https://img.shields.io/badge/-CSS-0d1117?style=for-the-badge&logo=css3)
 ![SASS](https://img.shields.io/badge/-SASS-0d1117?style=for-the-badge&logo=sass)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=qtrixnet&theme=dracula&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+[![codewars](https://www.codewars.com/users/Qtrixnet/badges/micro)](https://www.codewars.com/users/Qtrixnet)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=qtrixnet&theme=react&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qtrixnet&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qtrixnet&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qtrixnet&show_icons=true&theme=react) 
 
-[![codewars](https://www.codewars.com/users/Qtrixnet/badges/micro)](https://www.codewars.com/users/Qtrixnet)   
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### 📧 Почта: qtrixnet@yandex.ru
 ### 🌐 Telegram: @cyril_sv
