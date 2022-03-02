@@ -1,6 +1,6 @@
 # 👋 Привет
 ## Я начинающий Front-end разработчик
-### Мои последние работы можно увидеть здесь: [Портфолио](https://qtrixnet.github.io/new-portfolio)
+<!-- ### Мои последние работы можно увидеть здесь: [Портфолио](https://qtrixnet.github.io/new-portfolio) -->
 ### Планы и желания
 + 🧼 Стараюсь писать чистый код
 + 😎 Хочу работать в команде опытных профессионалов
@@ -16,6 +16,8 @@
 ![HTML](https://img.shields.io/badge/-HTML-0d1117?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-0d1117?style=for-the-badge&logo=css3)
 ![SASS](https://img.shields.io/badge/-SASS-0d1117?style=for-the-badge&logo=sass)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=qtrixnet)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 📧 Почта: qtrixnet@yandex.ru
 ### 🌐 Telegram: @cyril_sv
