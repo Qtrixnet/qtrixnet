@@ -22,8 +22,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qtrixnet&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
-  <img width="50%" src="http://github-readme-streak-stats.herokuapp.com?user=qtrixnet&theme=react&hide_border=true&date_format=j%2Fn%5B%2FY%5D"/>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=qtrixnet&&hide_border=trueshow_icons=true&theme=react"/>
+  <img width="49%" src="http://github-readme-streak-stats.herokuapp.com?user=qtrixnet&theme=react&hide_border=true&date_format=j%2Fn%5B%2FY%5D"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=qtrixnet&&hide_border=trueshow_icons=true&theme=react"/>
 </div>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=qtrixnet&hide_border=true&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
