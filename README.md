@@ -22,7 +22,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qtrixnet&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
-  <img width="49%" src="http://github-readme-streak-stats.herokuapp.com?user=qtrixnet&theme=react&hide_border=true&date_format=j%2Fn%5B%2FY%5D"/>
+  <img style="box-shadow: 5px 5px 5px red" width="49%" src="http://github-readme-streak-stats.herokuapp.com?user=qtrixnet&theme=react&hide_border=true&date_format=j%2Fn%5B%2FY%5D"/>
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=qtrixnet&&hide_border=trueshow_icons=true&theme=react"/>
 </div>
 
