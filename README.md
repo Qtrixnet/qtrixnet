@@ -17,7 +17,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-0d1117?style=for-the-badge&logo=css3)
 ![SASS](https://img.shields.io/badge/-SASS-0d1117?style=for-the-badge&logo=sass)
 
-[![codewars](https://www.codewars.com/users/Qtrixnet/badges/micro)](https://www.codewars.com/users/Qtrixnet)
+[![codewars](https://www.codewars.com/users/Qtrixnet/badges/large)](https://www.codewars.com/users/Qtrixnet)
 
 <div align="center">
   <img width="49%" src="http://github-readme-streak-stats.herokuapp.com?user=qtrixnet&theme=react&hide_border=true&date_format=j%2Fn%5B%2FY%5D"/>
