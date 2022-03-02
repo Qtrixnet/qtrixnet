@@ -23,14 +23,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qtrixnet&show_icons=true&theme=dracula)
 
-Большой (large):  
-[![codewars](https://www.codewars.com/users/qtrixnet/badges/large)](https://www.codewars.com/users/username)   
-
-Маленький (small):  
-[![codewars](https://www.codewars.com/users/qtrixnet/badges/small)](https://www.codewars.com/users/username) 
-
-Крошечный (micro):  
-[![codewars](https://www.codewars.com/users/qtrixnet/badges/micro)](https://www.codewars.com/users/username)
+[![codewars](https://www.codewars.com/users/Qtrixnet/badges/micro)](https://www.codewars.com/users/Qtrixnet)   
 
 ### 📧 Почта: qtrixnet@yandex.ru
 ### 🌐 Telegram: @cyril_sv
