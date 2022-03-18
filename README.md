@@ -1,4 +1,4 @@
-# 👋 Привет
+# <h1 align="center">Привет<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 ## Я Junior front-end разработчик
 <!-- ### Мои последние работы можно увидеть здесь: [Портфолио](https://qtrixnet.github.io/new-portfolio) -->
 ### Приоритеты:
