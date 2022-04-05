@@ -7,6 +7,8 @@
 + 🚀 Осваиваю новые технологии
 + ⏱ Учусь анализировать сложность алгоритмов / улучшать производительность
 
+### [Портфолио](https://qtrixnet.github.io/portfolio/#/)
+
 ### Используемые языки и технологии: 
 ![ReactJS](https://img.shields.io/badge/-ReactJS-0d1117?style=for-the-badge&logo=React)
 ![Typescript](https://img.shields.io/badge/-Typescript-0d1117?style=for-the-badge&logo=Typescript)
