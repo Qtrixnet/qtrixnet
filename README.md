@@ -46,8 +46,6 @@
 
 <!-- ![Metrics](https://metrics.lecoq.io/Qtrixnet?template=classic&base.indepth=true&repositories.forks=true&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&lines=1&base.indepth=true&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.details=bytes-size%2C%20percentage%2C%20lines&languages.indepth=true&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FAlmaty) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qtrixnet&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Codewars:
 [![codewars](https://www.codewars.com/users/Qtrixnet/badges/large)](https://www.codewars.com/users/Qtrixnet)
 
